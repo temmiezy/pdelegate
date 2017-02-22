@@ -1,4 +1,4 @@
 # pdelegate
-# A foreign currency payment request
-# Framework - Codeigniter
-# Author - Kehinde afolabi
+A foreign currency payment request app(Incomplete)
+Framework - Codeigniter
+Author - Kehinde afolabi
